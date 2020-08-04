@@ -26,7 +26,7 @@ function Landing() {
         />
 
         <div className="buttons-container">
-          <Link to="" className="study">
+          <Link to="/estudar" className="study">
             <img src={studyIcon} alt="Estudar"/>
             Estudar
           </Link>
