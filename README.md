@@ -11,7 +11,7 @@
   <a href="https://reactnative.dev/">
     <img src="https://img.shields.io/badge/mobile-react%20native-blueviolet">
   </a>
-  <a href="https://github.com/amandabezerra/Ecoleta/blob/master/LICENSE">
+  <a href="https://github.com/amandabezerra/proffy/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blueviolet">
   </a>
 </div>
